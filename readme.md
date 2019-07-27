@@ -16,7 +16,10 @@
 ```
 ### 运行
 
+需求：node
+
 ```bash
+$ npm install
 $ npm run start
 ```
 
