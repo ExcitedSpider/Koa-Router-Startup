@@ -20,4 +20,4 @@
 $ npm run start
 ```
 
-只配置了一条路由`/home/welcome`，浏览器访问`/home/welcome`
+只配置了一条路由`/home/welcome`，浏览器访问`http://localhost:3000/home/welcome`
